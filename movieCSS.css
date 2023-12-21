@@ -1,0 +1,109 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header, main, footer {
+    padding: 20px;
+  }
+  
+  header {
+    background-color: #fff;
+    color: #fff;
+    text-align: center;
+    height: 50px;
+
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  #booking {
+    margin-top: 20px;
+  }
+  
+  /* 추가적인 스타일링을 원하면 여기에 추가하세요 */
+#banner_front{
+   position: absolute;
+   height: auto;
+   width: 200px;
+   top: 0px;
+    right: 80%;
+}  
+#login_BT{
+    position: absolute;
+    height: auto;
+    width: 40px;
+    top: 7px;
+     right: 30%;
+
+}
+#login_TXT{
+    position: absolute;
+    height: auto;
+     right: 29.8%;
+     top: 43px;
+}
+.header_txt{
+    color: rgb(94, 94, 94);
+    font-family: 'IBM Plex Sans KR', sans-serif;
+    
+
+}
+#signup_BT{
+    position: absolute;
+    height: auto;
+    width: 35px;
+    top: 7px;
+     right: 25%;
+
+}
+
+#signup_TXT{
+
+    position: absolute;
+    height: auto;
+     right: 24.1%;
+     top: 43px;
+}
+#myInfo_BT{
+    position: absolute;
+    height: auto;
+    width: 35px;
+    top: 6px;
+     right: 20%;
+
+}
+#myInfo_TXT{
+    position: absolute;
+    height: auto;
+     right: 19.5%;
+     top: 43px;
+}
+#connect_BT{
+    position: absolute;
+    height: auto;
+    width: 35px;
+    top: 7px;
+     right: 15.2%;
+
+}
+#connect_TXT{
+    position: absolute;
+    height: auto;
+     right: 14.3%;
+     top: 43px;
+}
+
